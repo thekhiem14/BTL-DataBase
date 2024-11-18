@@ -1,0 +1,48 @@
+/*
+-- Query: SELECT * FROM athleticcenter.athletescheduleassignments
+LIMIT 0, 1000
+
+-- Date: 2024-11-18 22:26
+*/
+INSERT INTO `` (`AssignmentID`,`AthleteID`,`TemplateID`,`StartDate`,`EndDate`,`IsActive`,`CreatedBy`,`CreatedDate`,`LastModified`) VALUES (43,1001,1,'2024-01-01','2024-12-31',1,101,'2024-11-13 14:26:56','2024-11-13 14:26:56');
+INSERT INTO `` (`AssignmentID`,`AthleteID`,`TemplateID`,`StartDate`,`EndDate`,`IsActive`,`CreatedBy`,`CreatedDate`,`LastModified`) VALUES (44,1003,2,'2024-01-01','2024-06-30',1,101,'2024-11-13 14:26:56','2024-11-13 14:26:56');
+INSERT INTO `` (`AssignmentID`,`AthleteID`,`TemplateID`,`StartDate`,`EndDate`,`IsActive`,`CreatedBy`,`CreatedDate`,`LastModified`) VALUES (45,1005,3,'2024-01-01','2024-12-31',1,101,'2024-11-13 14:26:56','2024-11-13 14:26:56');
+INSERT INTO `` (`AssignmentID`,`AthleteID`,`TemplateID`,`StartDate`,`EndDate`,`IsActive`,`CreatedBy`,`CreatedDate`,`LastModified`) VALUES (46,1007,1,'2024-01-01','2024-12-31',1,101,'2024-11-13 14:26:56','2024-11-13 14:26:56');
+INSERT INTO `` (`AssignmentID`,`AthleteID`,`TemplateID`,`StartDate`,`EndDate`,`IsActive`,`CreatedBy`,`CreatedDate`,`LastModified`) VALUES (47,1002,4,'2024-01-01','2024-06-30',1,101,'2024-11-13 14:26:56','2024-11-13 14:26:56');
+INSERT INTO `` (`AssignmentID`,`AthleteID`,`TemplateID`,`StartDate`,`EndDate`,`IsActive`,`CreatedBy`,`CreatedDate`,`LastModified`) VALUES (48,1004,2,'2024-01-01','2024-12-31',1,101,'2024-11-13 14:26:56','2024-11-13 14:26:56');
+INSERT INTO `` (`AssignmentID`,`AthleteID`,`TemplateID`,`StartDate`,`EndDate`,`IsActive`,`CreatedBy`,`CreatedDate`,`LastModified`) VALUES (49,1006,5,'2024-01-01','2024-12-31',1,101,'2024-11-13 14:26:56','2024-11-13 14:26:56');
+INSERT INTO `` (`AssignmentID`,`AthleteID`,`TemplateID`,`StartDate`,`EndDate`,`IsActive`,`CreatedBy`,`CreatedDate`,`LastModified`) VALUES (50,1008,3,'2024-01-01','2024-06-30',1,101,'2024-11-13 14:26:56','2024-11-13 14:26:56');
+INSERT INTO `` (`AssignmentID`,`AthleteID`,`TemplateID`,`StartDate`,`EndDate`,`IsActive`,`CreatedBy`,`CreatedDate`,`LastModified`) VALUES (51,1010,4,'2024-01-01','2024-12-31',1,101,'2024-11-13 14:26:56','2024-11-13 14:26:56');
+INSERT INTO `` (`AssignmentID`,`AthleteID`,`TemplateID`,`StartDate`,`EndDate`,`IsActive`,`CreatedBy`,`CreatedDate`,`LastModified`) VALUES (52,1009,5,'2024-01-01','2024-12-31',1,101,'2024-11-13 14:26:56','2024-11-13 14:26:56');
+INSERT INTO `` (`AssignmentID`,`AthleteID`,`TemplateID`,`StartDate`,`EndDate`,`IsActive`,`CreatedBy`,`CreatedDate`,`LastModified`) VALUES (53,1011,1,'2024-01-01','2024-06-30',1,101,'2024-11-13 14:26:56','2024-11-13 14:26:56');
+INSERT INTO `` (`AssignmentID`,`AthleteID`,`TemplateID`,`StartDate`,`EndDate`,`IsActive`,`CreatedBy`,`CreatedDate`,`LastModified`) VALUES (54,1013,2,'2024-01-01','2024-12-31',1,101,'2024-11-13 14:26:56','2024-11-13 14:26:56');
+INSERT INTO `` (`AssignmentID`,`AthleteID`,`TemplateID`,`StartDate`,`EndDate`,`IsActive`,`CreatedBy`,`CreatedDate`,`LastModified`) VALUES (55,1015,3,'2024-01-01','2024-12-31',1,101,'2024-11-13 14:26:56','2024-11-13 14:26:56');
+INSERT INTO `` (`AssignmentID`,`AthleteID`,`TemplateID`,`StartDate`,`EndDate`,`IsActive`,`CreatedBy`,`CreatedDate`,`LastModified`) VALUES (56,1012,4,'2024-01-01','2024-06-30',1,101,'2024-11-13 14:26:56','2024-11-13 14:26:56');
+INSERT INTO `` (`AssignmentID`,`AthleteID`,`TemplateID`,`StartDate`,`EndDate`,`IsActive`,`CreatedBy`,`CreatedDate`,`LastModified`) VALUES (57,1014,5,'2024-01-01','2024-12-31',1,101,'2024-11-13 14:26:56','2024-11-13 14:26:56');
+INSERT INTO `` (`AssignmentID`,`AthleteID`,`TemplateID`,`StartDate`,`EndDate`,`IsActive`,`CreatedBy`,`CreatedDate`,`LastModified`) VALUES (58,1016,1,'2024-01-01','2024-12-31',1,101,'2024-11-13 14:26:56','2024-11-13 14:26:56');
+INSERT INTO `` (`AssignmentID`,`AthleteID`,`TemplateID`,`StartDate`,`EndDate`,`IsActive`,`CreatedBy`,`CreatedDate`,`LastModified`) VALUES (59,1016,2,'2024-01-01','2024-06-30',1,101,'2024-11-13 14:26:56','2024-11-13 14:26:56');
+INSERT INTO `` (`AssignmentID`,`AthleteID`,`TemplateID`,`StartDate`,`EndDate`,`IsActive`,`CreatedBy`,`CreatedDate`,`LastModified`) VALUES (60,1002,3,'2024-01-01','2024-12-31',1,101,'2024-11-13 14:26:56','2024-11-13 14:26:56');
+INSERT INTO `` (`AssignmentID`,`AthleteID`,`TemplateID`,`StartDate`,`EndDate`,`IsActive`,`CreatedBy`,`CreatedDate`,`LastModified`) VALUES (61,1005,4,'2024-01-01','2024-12-31',1,101,'2024-11-13 14:26:56','2024-11-13 14:26:56');
+INSERT INTO `` (`AssignmentID`,`AthleteID`,`TemplateID`,`StartDate`,`EndDate`,`IsActive`,`CreatedBy`,`CreatedDate`,`LastModified`) VALUES (62,1000,5,'2024-01-01','2024-06-30',1,101,'2024-11-13 14:26:56','2024-11-13 14:26:56');
+INSERT INTO `` (`AssignmentID`,`AthleteID`,`TemplateID`,`StartDate`,`EndDate`,`IsActive`,`CreatedBy`,`CreatedDate`,`LastModified`) VALUES (63,1002,11,'2024-01-01','2024-12-31',1,101,'2024-11-13 14:26:56','2024-11-13 14:26:56');
+INSERT INTO `` (`AssignmentID`,`AthleteID`,`TemplateID`,`StartDate`,`EndDate`,`IsActive`,`CreatedBy`,`CreatedDate`,`LastModified`) VALUES (64,1004,12,'2024-01-01','2024-12-31',1,101,'2024-11-13 14:26:56','2024-11-13 14:26:56');
+INSERT INTO `` (`AssignmentID`,`AthleteID`,`TemplateID`,`StartDate`,`EndDate`,`IsActive`,`CreatedBy`,`CreatedDate`,`LastModified`) VALUES (65,1005,13,'2024-01-01','2024-12-31',1,101,'2024-11-13 14:26:56','2024-11-13 14:26:56');
+INSERT INTO `` (`AssignmentID`,`AthleteID`,`TemplateID`,`StartDate`,`EndDate`,`IsActive`,`CreatedBy`,`CreatedDate`,`LastModified`) VALUES (66,1006,14,'2024-01-01','2024-06-30',1,101,'2024-11-13 14:26:56','2024-11-13 14:26:56');
+INSERT INTO `` (`AssignmentID`,`AthleteID`,`TemplateID`,`StartDate`,`EndDate`,`IsActive`,`CreatedBy`,`CreatedDate`,`LastModified`) VALUES (67,1002,15,'2024-01-01','2024-12-31',1,101,'2024-11-13 14:26:56','2024-11-13 14:26:56');
+INSERT INTO `` (`AssignmentID`,`AthleteID`,`TemplateID`,`StartDate`,`EndDate`,`IsActive`,`CreatedBy`,`CreatedDate`,`LastModified`) VALUES (68,1010,16,'2024-01-01','2024-12-31',1,101,'2024-11-13 14:26:56','2024-11-13 14:26:56');
+INSERT INTO `` (`AssignmentID`,`AthleteID`,`TemplateID`,`StartDate`,`EndDate`,`IsActive`,`CreatedBy`,`CreatedDate`,`LastModified`) VALUES (69,1011,17,'2024-01-01','2024-06-30',1,101,'2024-11-13 14:26:56','2024-11-13 14:26:56');
+INSERT INTO `` (`AssignmentID`,`AthleteID`,`TemplateID`,`StartDate`,`EndDate`,`IsActive`,`CreatedBy`,`CreatedDate`,`LastModified`) VALUES (70,1012,18,'2024-01-01','2024-12-31',1,101,'2024-11-13 14:26:56','2024-11-13 14:26:56');
+INSERT INTO `` (`AssignmentID`,`AthleteID`,`TemplateID`,`StartDate`,`EndDate`,`IsActive`,`CreatedBy`,`CreatedDate`,`LastModified`) VALUES (71,1013,19,'2024-01-01','2024-12-31',1,101,'2024-11-13 14:26:56','2024-11-13 14:26:56');
+INSERT INTO `` (`AssignmentID`,`AthleteID`,`TemplateID`,`StartDate`,`EndDate`,`IsActive`,`CreatedBy`,`CreatedDate`,`LastModified`) VALUES (72,1014,20,'2024-01-01','2024-12-31',1,101,'2024-11-13 14:26:56','2024-11-13 14:26:56');
+INSERT INTO `` (`AssignmentID`,`AthleteID`,`TemplateID`,`StartDate`,`EndDate`,`IsActive`,`CreatedBy`,`CreatedDate`,`LastModified`) VALUES (73,1015,11,'2024-01-01','2024-06-30',1,101,'2024-11-13 14:26:56','2024-11-13 14:26:56');
+INSERT INTO `` (`AssignmentID`,`AthleteID`,`TemplateID`,`StartDate`,`EndDate`,`IsActive`,`CreatedBy`,`CreatedDate`,`LastModified`) VALUES (74,1016,12,'2024-01-01','2024-12-31',1,101,'2024-11-13 14:26:56','2024-11-13 14:26:56');
+INSERT INTO `` (`AssignmentID`,`AthleteID`,`TemplateID`,`StartDate`,`EndDate`,`IsActive`,`CreatedBy`,`CreatedDate`,`LastModified`) VALUES (75,1016,14,'2024-01-01','2024-12-31',1,101,'2024-11-13 14:26:56','2024-11-13 14:26:56');
+INSERT INTO `` (`AssignmentID`,`AthleteID`,`TemplateID`,`StartDate`,`EndDate`,`IsActive`,`CreatedBy`,`CreatedDate`,`LastModified`) VALUES (76,1012,2,'2024-01-01','2024-06-30',1,101,'2024-11-13 14:26:56','2024-11-13 14:26:56');
+INSERT INTO `` (`AssignmentID`,`AthleteID`,`TemplateID`,`StartDate`,`EndDate`,`IsActive`,`CreatedBy`,`CreatedDate`,`LastModified`) VALUES (77,1002,15,'2024-01-01','2024-12-31',1,101,'2024-11-13 14:26:56','2024-11-13 14:26:56');
+INSERT INTO `` (`AssignmentID`,`AthleteID`,`TemplateID`,`StartDate`,`EndDate`,`IsActive`,`CreatedBy`,`CreatedDate`,`LastModified`) VALUES (78,1002,1,'2024-01-01','2024-12-31',1,101,'2024-11-13 14:26:56','2024-11-13 14:26:56');
+INSERT INTO `` (`AssignmentID`,`AthleteID`,`TemplateID`,`StartDate`,`EndDate`,`IsActive`,`CreatedBy`,`CreatedDate`,`LastModified`) VALUES (79,1005,2,'2024-01-01','2024-12-31',1,101,'2024-11-13 14:26:56','2024-11-13 14:26:56');
+INSERT INTO `` (`AssignmentID`,`AthleteID`,`TemplateID`,`StartDate`,`EndDate`,`IsActive`,`CreatedBy`,`CreatedDate`,`LastModified`) VALUES (80,1002,7,'2024-01-01','2024-06-30',1,101,'2024-11-13 14:26:56','2024-11-13 14:26:56');
+INSERT INTO `` (`AssignmentID`,`AthleteID`,`TemplateID`,`StartDate`,`EndDate`,`IsActive`,`CreatedBy`,`CreatedDate`,`LastModified`) VALUES (81,1007,12,'2024-01-01','2024-12-31',1,101,'2024-11-13 14:26:56','2024-11-13 14:26:56');
+INSERT INTO `` (`AssignmentID`,`AthleteID`,`TemplateID`,`StartDate`,`EndDate`,`IsActive`,`CreatedBy`,`CreatedDate`,`LastModified`) VALUES (82,1001,6,'2024-01-01','2024-12-31',1,101,'2024-11-13 14:26:56','2024-11-13 14:26:56');
+INSERT INTO `` (`AssignmentID`,`AthleteID`,`TemplateID`,`StartDate`,`EndDate`,`IsActive`,`CreatedBy`,`CreatedDate`,`LastModified`) VALUES (83,1000,18,'2024-01-01','2024-06-30',1,101,'2024-11-13 14:26:56','2024-11-13 14:26:56');
+INSERT INTO `` (`AssignmentID`,`AthleteID`,`TemplateID`,`StartDate`,`EndDate`,`IsActive`,`CreatedBy`,`CreatedDate`,`LastModified`) VALUES (84,1009,11,'2024-01-01','2024-12-31',1,101,'2024-11-13 14:26:56','2024-11-13 14:26:56');
